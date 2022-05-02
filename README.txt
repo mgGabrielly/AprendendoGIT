@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-Aprendendo GIT
-
-## Meu primeiro projeto no GIT
-=======
 # Aprendendo GIT
 
-## Meu primeiro projeto usando GIT
+## Meu primeiro projeto no GIT
 
-Arquivos: README.txt
+Arquivos: 
+- LICENSE
           
->>>>>>> test
